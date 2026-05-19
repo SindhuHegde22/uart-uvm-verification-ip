@@ -11,7 +11,7 @@ The architecture of this project follows industry-standard ASIC/FPGA verificatio
 * `interface/` - Defines the physical UART pin-level signaling interface (`uart_if.sv`).
 * `sim/` - Automated Tcl simulation execution scripts (`run.do`) for Siemens QuestaSim / ModelSim.
 * `tb/` - Complete UVM verification environment including transactions, sequences, drivers, monitors, agents, scoreboards, environments, and tests.
-* `images/` - Waveform captures and verification screenshots.
+
 
 ---
 
