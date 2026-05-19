@@ -156,7 +156,7 @@ UVM_INFO [SB_PASS] MATCH! Data = 58
 
 ## 📊 Simulation Waveform
 
-![UART Protocol Simulation Waveform](images/UART_Waveform.png)
+![UART Protocol Simulation Waveform](tb/UART_Waveform.png)
 
 ---
 
